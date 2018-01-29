@@ -1,5 +1,4 @@
-# starfield
-p5.js starfield
+# p5.js starfield
 
 Code written whilst watching Daniel Shiffman's amazing Coding Challenges.
 
